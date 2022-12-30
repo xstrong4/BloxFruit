@@ -5,6 +5,7 @@ local lpg = gui:CreateCategory("xStrong - Blox Fruits")
 
 lpg:CreateButton("(Best No Key) STRING X",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/Fender-scripts/main/bloxfruit1'))() end)
 lpg:CreateButton("(Best No Key) Alucard Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/script1.lua'))() end)
+lpg:CreateButton("(Best No Key) Chiba Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/KindIhave/ChibaHuB/main/Chiba-BF.txt'))() end)
 lpg:CreateButton("(Best No Key) Mango Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/supFileMango'))() end)
 
 lpg:CreateButton("Mukuro Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua'))() end)
@@ -16,7 +17,6 @@ lpg:CreateButton("BlazeX Hub",function() loadstring(game:HttpGet('https://raw.gi
 lpg:CreateButton("2x Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/NeaPchX2/2XHUB-UPDBIG/main/README.md'))() end)
 lpg:CreateButton("PlaybackX Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/NeaPchX2/Playback-X-HUB/main/Protected.lua.txt'))() end)
 lpg:CreateButton("East Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/Brineeee/EastHub/main/lua'))() end)
-lpg:CreateButton("Chiba Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/KindIhave/ChibaHuB/main/Chiba-BF.txt'))() end)
 lpg:CreateButton("One X Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xOne2/One-x-HUB/main/README.md'))() end)
 lpg:CreateButton("Putaya Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/Putaya/HITBOXKAK/main/PutayaFree'))() end)
 lpg:CreateButton("Zen Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/Kaizenofficiall/ZenHub/main/Loader'))() end)
