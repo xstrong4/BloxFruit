@@ -10,7 +10,7 @@ lpg:CreateButton("(Best No Key) Zen Hub",function() loadstring(game:HttpGet('htt
 lpg:CreateButton("Mukuro Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua'))() end)
 lpg:CreateButton("Mango Hub",function() loadstring(game:HttpGet('https://gitlab.com/L1ZOT/mango-hub/-/raw/main/Mango-Bloxf-Fruits-Beta'))() end)
 lpg:CreateButton("Table Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/1f0yt/community/master/table'))() end)
--lpg:CreateButton("Tawan Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/main/hub.lua.txt'))() end)
+lpg:CreateButton("Tawan Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/main/hub.lua.txt'))() end)
 lpg:CreateButton("Tuper Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/TUPERX/TUPERX/Main/MenuBF/README.md'))() end)
 lpg:CreateButton("Unique Hub",function() loadstring(game:HttpGet('https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-Unique-Hub-LEAK-6735'))() end)
 lpg:CreateButton("BlazeX Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/WindowsXp12/BlxzeRBLX/main/BLxzeHub.lua'))() end)
