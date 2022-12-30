@@ -5,7 +5,7 @@ local lpg = gui:CreateCategory("xStrong - Blox Fruits")
 
 lpg:CreateButton("(Best No Key) STRING X",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/Fender-scripts/main/bloxfruit1'))() end)
 lpg:CreateButton("(Best No Key) Alucard Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/script1.lua'))() end)
-lpg:CreateButton("(Best No Key) Chiba Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/supFileChiba'))() end)
+lpg:CreateButton("(Best No Key) Chiba Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/supFileChiba22'))() end)
 lpg:CreateButton("(Best No Key) Mango Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/supFileMango'))() end)
 
 lpg:CreateButton("Mukuro Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua'))() end)
