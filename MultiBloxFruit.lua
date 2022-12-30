@@ -3,8 +3,8 @@ local gui = loadstring(game:HttpGet("https://gitlab.com/0x45.xyz/droplib/-/raw/m
 
 local lpg = gui:CreateCategory("xStrong - Blox Fruits")
 
-lpg:CreateButton("(Best No Key) STRING X",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/Fender-scripts/main/bloxfruit1', true))() end)
-lpg:CreateButton("(Bes	t No Key) Alucard Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))() end)
+lpg:CreateButton("(Best No Key) STRING X",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/Fender-scripts/main/bloxfruit1'))() end)
+lpg:CreateButton("(Best No Key) Alucard Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))() end)
 lpg:CreateButton("(Best No Key) Zen Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/Kaizenofficiall/ZenHub/main/Loader'))() end)
 
 lpg:CreateButton("Mukuro Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua'))() end)
