@@ -1,5 +1,5 @@
 loadstring(game:HttpGet('https://github.com/xSTronG30/BloxFruit/blob/main/SpeedHubX.lua'))()
-[[
+--[[
 local gui = loadstring(game:HttpGet("https://gitlab.com/0x45.xyz/droplib/-/raw/master/drop-minified.lua"))():Init(config,game.CoreGui)
 
 
