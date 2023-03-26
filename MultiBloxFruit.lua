@@ -3,9 +3,9 @@ local gui = loadstring(game:HttpGet("https://gitlab.com/0x45.xyz/droplib/-/raw/m
 
 local lpg = gui:CreateCategory("xStrong - Blox Fruits")
 
-lpg:CreateButton("(Best No Key) 1",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/Fender-scripts/main/bloxfruit1'))() end)
-lpg:CreateButton("(Best No Key) 2 Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/skyashub.lua'))() end)
-lpg:CreateButton("(Best No Key) 3 Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/supFileChiba2'))() end)
+lpg:CreateButton("(Best No Key) 1",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/skyashub.lua'))() end)
+lpg:CreateButton("(Best No Key) 2",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/Fender-scripts/main/bloxfruit1'))() end)
+lpg:CreateButton("(Best No Key) 3",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/supFileChiba2'))() end)
 lpg:CreateButton("(Best No Key) Zaque Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/script1.lua'))() end)
 lpg:CreateButton("(Best No Key) Mango Hub",function() loadstring(game:HttpGet('https://raw.githubusercontent.com/xSTronG30/BloxFruit/main/supFileMango'))() end)
 
